@@ -1,0 +1,48 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "自作ワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_7a0b327b-86c4-4c9a-8491-3f54ee96ce83",
+                    "Name": "Rili_Space",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 32,
+                    "Description": "夜空に浮かぶありきたりなおうちです。 QVペン、イベントカレンダー、iwaSync3（4Kまで対応）、dotediter、ImagePad、おじさん、簡易射撃場、対面型便所、ジム、あります。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_7044d8b2-56ed-4786-9448-516fbc0b11da",
+                    "Name": "お互いの戦利品晒し合い会場",
+                    "RecommendedCapacity": 2,
+                    "Capacity": 32,
+                    "Description": "合計32枚のImagePadを設置しています 巨大スクリーンで自慢の画像を見せびらかしましょう。 ビデオプレイヤーと、レーザーポインターもあります。 イベント参加後の戦利品の見せ合いや、ガチャ結果を見せ合いましょう。 途中入室するとすべての画像の読み込みに時間がかかる場合があります。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },                
+                {
+                    "ID": "wrld_7dec70c6-4ad5-46b9-8060-01ddeab682d0",
+                    "Name": "Simple_OneRoom",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 5,
+                    "Description": "個人用につくりました",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+                
+            ]
+        }
+    ]
+}
