@@ -1,48 +1,1374 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
+  "Categorys": [
+    {
+      "Category": "Chill",
+      "Worlds": [
         {
-            "Category": "自作ワールド",
-            "Worlds": [
-                {
-                    "ID": "wrld_7a0b327b-86c4-4c9a-8491-3f54ee96ce83",
-                    "Name": "Rili_Space",
-                    "RecommendedCapacity": 1,
-                    "Capacity": 32,
-                    "Description": "夜空に浮かぶありきたりなおうちです。 QVペン、イベントカレンダー、iwaSync3（4Kまで対応）、dotediter、ImagePad、おじさん、簡易射撃場、対面型便所、ジム、あります。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
-                    "ID": "wrld_7044d8b2-56ed-4786-9448-516fbc0b11da",
-                    "Name": "お互いの戦利品晒し合い会場",
-                    "RecommendedCapacity": 2,
-                    "Capacity": 32,
-                    "Description": "合計32枚のImagePadを設置しています 巨大スクリーンで自慢の画像を見せびらかしましょう。 ビデオプレイヤーと、レーザーポインターもあります。 イベント参加後の戦利品の見せ合いや、ガチャ結果を見せ合いましょう。 途中入室するとすべての画像の読み込みに時間がかかる場合があります。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }
-                },                
-                {
-                    "ID": "wrld_7dec70c6-4ad5-46b9-8060-01ddeab682d0",
-                    "Name": "Simple_OneRoom",
-                    "RecommendedCapacity": 1,
-                    "Capacity": 5,
-                    "Description": "個人用につくりました",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }
-                }
-                
-            ]
+          "ID": "wrld_87224516-dda5-44fd-8efa-50300a4373d0",
+          "Name": "夏影の郷~Summerlight Vale~",
+          "Description": ""
+        },
+        {
+          "ID": "wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc",
+          "Name": "place to eat cereal",
+          "Description": "Join and ask for cereal ˸3"
+        },
+        {
+          "ID": "wrld_67b2ba20-0685-4008-bea8-0ce8a55d4829",
+          "Name": "Gira&#39;s Night Bar",
+          "Description": "月明かり照らす海辺のバーで過ごしませんか？"
+        },
+        {
+          "ID": "wrld_fca03bb0-4d82-4513-934f-df0dcaf0b3e9",
+          "Name": "Moonlit Sea",
+          "Description": "月夜の海に漂う船です。月齢にそって月が変わります。寝室用のコテージもあります。A ship drifting on the moonlit sea․ The moon changes according to the moon phase․ There are cottages for sleeping․"
+        },
+        {
+          "ID": "wrld_efa50940-28f4-4d55-9168-873bf860f8d0",
+          "Name": "多分、雨。",
+          "Description": "『俺はただ、静かに言葉と向き合いたかっただけ。』 メイン部屋は上下ミュート機能あり、違う動画を再生しても干渉しません。 奥の部屋もミュート機能、そしてロック機能、インターホン、カメラもついてます。 imagePad FlipCamera QvPen 青空文庫 『＃多分雨VRC で撮った写真ポストしてくれたらみに行くよ』"
+        },
+        {
+          "ID": "wrld_fbb77316-a301-499b-a4f6-5f676c5a1b08",
+          "Name": "Crystal Nest",
+          "Description": "水滴が滴り落ちる湿った洞窟に、自作クリスタルシェーダーを使った綺麗な結晶を沢山詰め込みました。Ive packed a damp‚ drip-filled cave with countless gorgeous crystals rendered by my custom crystal shader․"
+        },
+        {
+          "ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
+          "Name": "東雲風船 - SHINONOME BALLOON -",
+          "Description": "明け方の空を旅する熱気球のワールドです。 「新しい世界に踏み出すときの高揚や不安、祈りのような想いを抱えて、熱を宿した気球は、風を感じながら夜明けの空を静かに昇っていきます。」"
+        },
+        {
+          "ID": "wrld_e0df9b74-089c-44bb-b236-c8790640c608",
+          "Name": "忘れられた森",
+          "Description": "2025․No․4_World"
+        },
+        {
+          "ID": "wrld_35021cf0-ac90-4a4e-bca4-d8d41bcab90e",
+          "Name": "夏宵が、来る頃に。",
+          "Description": "夕焼けに照らされた小さな空間に、必要な物は揃っています。"
+        },
+        {
+          "ID": "wrld_8f97c2ce-9455-4468-9925-628f6fba0dd1",
+          "Name": "MidNight Drive",
+          "Description": "Get comfy n go on an adventure with some friends in midnight driveǃ Explore 13＋ areas and unlock secret onesǃ Midnight drive is a comfy van map filled to the brim with everything you would need to vi…"
+        },
+        {
+          "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
+          "Name": "時の残響－Echoes of Time",
+          "Description": ""
+        },
+        {
+          "ID": "wrld_257f374b-7724-44bc-8eb3-e073a1b212e1",
+          "Name": "夜行急行 DD51-マイテ-スシ-オイネ",
+          "Description": "左トリガーダブルクリックでメニュー。 機関車 展望車 ラウンジ 寝台車は和室と洋室。 動画プレイヤーはラウンジ＋寝室で計4箇所・寝室には防犯カメラ設置。屋根上にポータルいくつか設置。結構重い、ゴメン。"
+        },
+        {
+          "ID": "wrld_e774d54a-03d1-4946-98e5-ae73ff0da7a4",
+          "Name": "星を眺めながらマシュマロを焼くワールド",
+          "Description": "広大な宇宙の下で仲間と言葉を交える穏やかな時間。 ミラー、ペン、動画のon⁄offスイッチはペン真後ろの木の中にあります"
+        },
+        {
+          "ID": "wrld_406f2958-2588-460b-a9d9-5bfcf35bab5f",
+          "Name": "陽だまり渓谷 - Flow of autumn leaves -",
+          "Description": "紅葉の流れる渓谷の水と一緒に、秋の陽だまりをたどってゆきましょう～ ひなたのお布団や紅葉の木陰、静かなベッドルームも隠れています Clear water and warm sunshine in the autumn garden․ Relaxing spots and a quiet bedroom․"
+        },
+        {
+          "ID": "wrld_5bd2a824-75c0-4b41-bfe8-ca5b02809e91",
+          "Name": "あの春を忘れない",
+          "Description": "春ワールドです。最初は冬ですがテーブルの光ってる本をuseするとちょっとした演出しながら春になります。冬に戻すには本棚の本をuseしてください。"
+        },
+        {
+          "ID": "wrld_dc515457-d3e1-428f-b04d-6c36f7e6e989",
+          "Name": "星降る寝室",
+          "Description": "ミラー、ペン、ビデオ、カリング設定済み"
+        },
+        {
+          "ID": "wrld_cd4a45e2-3fe8-41e6-aa2c-10648dffa5dd",
+          "Name": "Luna Ascension",
+          "Description": "The Lonely sanctuary․"
+        },
+        {
+          "ID": "wrld_1749b36b-a978-406e-b4c0-60359ca6fa75",
+          "Name": "黄昏れ特急 -Big Sunset Express-",
+          "Description": "［Migrated to Unity2018］ 夕焼けを走る特急列車"
+        },
+        {
+          "ID": "wrld_46b8f4e7-0f1a-4ac3-94ed-b8665a18b880",
+          "Name": "天泣の社・神域 - sun shower shrine ˸ sanctuary -",
+          "Description": "神々の宿る場所"
+        },
+        {
+          "ID": "wrld_b51bd916-25f4-4524-9e99-d9b7f92e3ce0",
+          "Name": "Summer Paradise",
+          "Description": "New update ˸）"
+        },
+        {
+          "ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631",
+          "Name": "Yayoi Summer Nights",
+          "Description": "ちりんちりん～ ｜ BGM ˸ 黒塗りの夜景 by ISAo"
+        },
+        {
+          "ID": "wrld_c40f5112-9b89-48ee-ac04-9e21699a4d32",
+          "Name": "little dream of me",
+          "Description": "喫茶店の居抜きです。一日の終わり、または始めに。"
+        },
+        {
+          "ID": "wrld_60aab43f-ac95-4d56-9cd2-f95d4b9e0b48",
+          "Name": "寂雨",
+          "Description": "寂は雨 -じゃくはあめ-"
+        },
+        {
+          "ID": "wrld_c271dc82-b122-488d-9a4d-17011895d643",
+          "Name": "reflection",
+          "Description": "reflection"
+        },
+        {
+          "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
+          "Name": "Deep Blue",
+          "Description": "REMASTEREDǃ Take a dip in the warm tropical shoreline‚ or swim further and explore the vast coral reefs with many species of marine life․"
+        },
+        {
+          "ID": "wrld_a80eae11-27b3-46a7-8d9c-1a0e015ba76a",
+          "Name": "One Room-Raffine-D",
+          "Description": "One Room-Raffine-のダークカラーバージョンです。ひとまずテスト的に公開しています。"
+        },
+        {
+          "ID": "wrld_9c422f4b-931d-4106-86e2-d14c3d9f6210",
+          "Name": "漂う時間 ⁄ Drifting Time",
+          "Description": "「雲とともに、ただ時間が流れる。」 ふわりと漂う雲の上に佇む静かな居室。ここでは、時計の針さえもゆっくりと進んでいきます。 ソファに沈み、タバコの煙が空に溶けていくのを眺めながら、ただ何もしない贅沢を味わう。コーヒーメーカーの優しい音が、雲間を漂う静寂をやさしく揺らします。 Let the clouds carry you as time gently flows․ A tranquil roo…"
+        },
+        {
+          "ID": "wrld_02c47782-767d-4986-995a-80bf2eb39524",
+          "Name": "キロバイトのあめ - Rain of KB",
+          "Description": "キロバイトで構成された仮想の窓辺。極限まで削られた容量の中に、必要なものは全て揃っています。"
+        },
+        {
+          "ID": "wrld_62b6303e-b8ac-4ace-bfc7-8425b269d727",
+          "Name": "Nimbus Nook （Night）",
+          "Description": "Good Night․․․․"
+        },
+        {
+          "ID": "wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404",
+          "Name": "Kotatsmuri-こたつむり-",
+          "Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。5⁄20VRC Light Volumesに対応しました（PC）"
+        },
+        {
+          "ID": "wrld_31fa1c67-b9c0-4cfd-a180-6cb73f897f0f",
+          "Name": "まどろみ-madoromi-",
+          "Description": "雨降る和モダンなhomeワールドです。団欒やV睡にどうぞ"
+        },
+        {
+          "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+          "Name": "Gion Street - 祇園通り日本",
+          "Description": "Light Volume OK - 次回の祇園通りワールド恒例・大晦日カウントダウン花火イベントは、2026年12月31日に開催されます！ 午前0時ちょうど、天から駆け降りる神秘の馬が、午（うま）年の幕開けを華やかに告げます！ イベントは23時59分（1分前）から始まりますので、どうぞお見逃しなく！ǃ"
+        },
+        {
+          "ID": "wrld_d3bf5a81-4e7e-44d5-830c-4755dfc5a0c9",
+          "Name": "Kangetsu Lake",
+          "Description": "まだ神社が建ってなかった時代の湖。This is a lake from a time when the shrine had not yet been built․"
+        },
+        {
+          "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
+          "Name": "小雨のあの日-A drizzly day",
+          "Description": "zmi-Utakara"
+        },
+        {
+          "ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
+          "Name": "漂泊ノ海-Wandering Sea-",
+          "Description": "いつかの、どこかの、誰かへ、手紙を送ってみませんか？漂泊ノ海は、そんな想いが集まる海です。"
+        },
+        {
+          "ID": "wrld_edd47397-9cf8-43f5-b504-0fdb236fc5a0",
+          "Name": "Yayoi Onsen",
+          "Description": "京都の絶景、瑠璃光院․温泉じゃありませんですけど"
+        },
+        {
+          "ID": "wrld_f95d21e8-7c81-4b2d-be05-f5fe212e67d1",
+          "Name": "Deep Sea",
+          "Description": "深い海の中で․․․"
+        },
+        {
+          "ID": "wrld_c3e69a3a-508d-48e0-9289-0472b898804c",
+          "Name": "Magic Heist",
+          "Description": "A collaboration with CyanLaser Lakuza․ Take a ride through this magical adventure and unearth the mysterious force behind the curse․ Raindance Award Winner․"
+        },
+        {
+          "ID": "wrld_8cd302c3-d0b7-4a16-a39b-6860c24ee0c2",
+          "Name": "New Grass Station",
+          "Description": "Helloǃ Welcome to NEWGRASS Stationǃ This platform stands tall above the clouds‚ accompanied by the budding of new life‚ depicting a story about the birth of new life and the growth of life&#39;s strength…"
+        },
+        {
+          "ID": "wrld_aaaa493b-99d5-4c9a-9e64-f9c55c16f693",
+          "Name": "おつルーム -Second-",
+          "Description": "おつルーム -Second- モデルハウス BOOTH「おつクリエイト」にて販売予定！"
+        },
+        {
+          "ID": "wrld_d3d063ab-74e0-4863-aeb0-797003f2a370",
+          "Name": "流星群の終着駅-The last station of Meteor shower",
+          "Description": "流星群の終着駅-The last station of meteor shower"
+        },
+        {
+          "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
+          "Name": "おいてけぼりの夏-Summer left behind-",
+          "Description": "夏色が抜かれてしまった後の世界。船を操縦することもできます。"
+        },
+        {
+          "ID": "wrld_cbc7e100-c554-4898-9f4e-06b4c2594fd1",
+          "Name": "色付く世界 UG_IRO",
+          "Description": "4箇所の光の柱に触れるとワールドに色がついて桜が咲きます。questの人も入れるようにしました。色変わるギミックと床の鏡像に関してはPC専用です。木を育てるギミックとパーティクルは動きます。"
+        },
+        {
+          "ID": "wrld_277cbe98-3aed-42b8-9f4d-60c1d104dee1",
+          "Name": "Apartment 428",
+          "Description": "Cozy little home away from home․"
+        },
+        {
+          "ID": "wrld_b22465f2-a1fe-4d5c-8ba3-c1fc56fa5772",
+          "Name": "さぼるーむ sabo room",
+          "Description": "サボテンに囲まれたホームワールド Video⁄QVPen⁄麻雀卓⁄UdonChipsカジノ⁄パチスロ⁄アイロンビーズ ほか各種ギミック"
+        },
+        {
+          "ID": "wrld_80a45cb4-84ee-41ba-9aea-92fc26f232f8",
+          "Name": "Nook house sample - ヌックのある家",
+          "Description": "This is a sample world now available on BOOTH․ Supports VRC Light Volumes ǃ BOOTHにて販売中のワールド「ヌックのある家」のサンプルワールドです。"
+        },
+        {
+          "ID": "wrld_893d03e3-66f7-4476-8495-4f59157c060c",
+          "Name": "夏想峡【KASOU-KYOU】",
+          "Description": "子供時代の夏休みを思い出させるような、自然がいっぱいのワールドです。綺麗な景色と温泉などがあります"
+        },
+        {
+          "ID": "wrld_9b4ebb1a-56a6-4c7a-9617-90113fa6d26b",
+          "Name": "雨催いの悼辞 - My tears will be rain",
+          "Description": "この期に及んで私は、本当はあの人が生きていて、明日にでも私のもとへひょっこり顔を出すんじゃないかと、そう思っているのです。"
+        },
+        {
+          "ID": "wrld_38ee8893-e65b-4ff5-aae3-86f02abbdfb6",
+          "Name": "KURAGARI COFFEE",
+          "Description": "＂Virtual Reality&#39; それは自分らしく存在できる世界。 そして個性が交差する世界。 でも時にはそんなデジタルの喧騒から抜け出して 夜風に身を任せませんか。 溢さないように気をつけてくださいね。 それでは、月夜が照らす暗がりでお待ちしております"
+        },
+        {
+          "ID": "wrld_ef5e1903-f0be-4533-a4cd-821d1094a919",
+          "Name": "雨見温泉 Rainy hot spring",
+          "Description": "雨見峠の傍らにある、山の中の温泉宿。"
+        },
+        {
+          "ID": "wrld_56b348fc-b1cb-4242-8587-9eb8e01ef399",
+          "Name": "Just Rain",
+          "Description": "just rain‚ 2025⁄07 uploaded with Unity 2022 ＋ VRCLV"
+        },
+        {
+          "ID": "wrld_1691722b-a82d-4c39-af4d-6307cafb1747",
+          "Name": "雨降るいつものたまり場 ~Rain Room~",
+          "Description": "雨の音聞きながらダラダラしたり睡眠ワールドなどにお使いください。"
+        },
+        {
+          "ID": "wrld_459dc463-7f0f-4b5e-aa4b-7e74370bc463",
+          "Name": "Lycan",
+          "Description": "やすらぎの一夜をあなたに"
+        },
+        {
+          "ID": "wrld_23e7084c-4881-4400-b547-e5f930cc6fd1",
+          "Name": "砂漠のトラック Truck in the desert",
+          "Description": "砂漠の中に停まるトラックのワールドです。トレーラー内、運転台、トレーラーの外に行くことができます。ベッド⁄動画プレイヤー⁄Qvペン⁄ナイトモード This is a world of truck parked in the desert․ You can go inside the trailer‚ in the cab and outside the trailer․ Bed ⁄ Video …"
+        },
+        {
+          "ID": "wrld_fe50d195-a43e-441e-a1dd-b0b3a2d39d5b",
+          "Name": "ケセドの桜旅館-CHESED&#39;s SAKURA RYOKAN-",
+          "Description": "ケセドの桜旅館-CHESED&#39;s SAKURA RYOKAN-桜舞う桜旅館。いたるところに桜があり、桜を堪能できる空間。屋外宴会場で桜を見ながら宴会可。"
+        },
+        {
+          "ID": "wrld_92840656-7191-459a-98d8-493b5a94c949",
+          "Name": "Rainy day",
+          "Description": "you can teleport to 2⁄f‚ nightmode‚video player‚ qvpen"
+        },
+        {
+          "ID": "wrld_20b24354-d67f-4622-9415-e1d14af60639",
+          "Name": "deep fog",
+          "Description": "deep fog"
+        },
+        {
+          "ID": "wrld_f44bfdc0-a153-4eea-b11a-a247894ae9f6",
+          "Name": "OneRoom",
+          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄27 iwaSyncをv3․6․6に更新"
+        },
+        {
+          "ID": "wrld_f0cecb84-d135-4504-a4eb-55d517ac6bcf",
+          "Name": "Promise",
+          "Description": "A Promise that I made․"
+        },
+        {
+          "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
+          "Name": "お彼岸",
+          "Description": "お彼岸をイメージしたワールドです。 BGM˸思い出は引き出しの中／written by˸もっぴーさうんど 様"
+        },
+        {
+          "ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff",
+          "Name": "Yayoi summer rust",
+          "Description": "Y"
+        },
+        {
+          "ID": "wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b",
+          "Name": "Cuddle meǃ",
+          "Description": "A relaxing intimate space to destress from the outside world․ Featuring a cool toned atmosphere and modern⁄comfy decor․ Take a break‚ grab some snacks‚ and cuddle up ;） - pvnda - kristinee28"
+        },
+        {
+          "ID": "wrld_6995f83a-115a-4599-a8f7-2800fe356de7",
+          "Name": "終末のご予定は？",
+          "Description": "別ワールドの反対側になるイメージで作ったワールドです。 昼夜切り替え、花火onoff、食べ物や飲み物もいろいろあります。 寝部屋としても使えると思います。"
+        },
+        {
+          "ID": "wrld_b8131227-4402-46cc-8236-30c3dcf4ed04",
+          "Name": "Aurora",
+          "Description": "My dear․․ Rest is what you need․․"
+        },
+        {
+          "ID": "wrld_47991d2e-42ef-4690-84fd-9100a5457c88",
+          "Name": "KOWLOON SHISHA NIGHT ［九龍水煙之夜］",
+          "Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。吸えるシーシャギミック⁄動画プレイヤー⁄睡眠用ギミック（アラーム・ナイトモード）あり。 【2025⁄05⁄21】SDK3․7․6に引き上げ、VRC Light Volumesに対応、メニューギミック換装、ライトベイク・一部テクスチャ見直し、ImageTab追加、ポストプロセス3種追加、テレポート先2箇所追加"
+        },
+        {
+          "ID": "wrld_9a4b710b-44bd-4661-b23f-edd87b284589",
+          "Name": "Stand by me",
+          "Description": "Fixed mushroom avatar light contribution"
+        },
+        {
+          "ID": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
+          "Name": "BOOTH Room",
+          "Description": "自分好みにカスタマイズしてゆったりできるプライベートな空間です。 BOOTH Room˸ a new‚ cozy space for you to customize and relaxǃ ＃VRCLightVolumesReady"
+        },
+        {
+          "ID": "wrld_93579722-5188-4521-acbc-3ae26ff4ed16",
+          "Name": "夏の夕涼み Charlotte&#39;s Sunflower House",
+          "Description": "ある夏の日に見た＂夢＂の世界。「夏休みの想い出」の詰め合わせ。冷たいスイカを片手に、仰ぎ見た打ち上げ花火。空舞う蛍と金魚たち。遊び疲れたら、クーラーの効いたお部屋でおやすみなさい。明日もきっと楽しい日。「隠し部屋」を含めて、3フロアあります。"
+        },
+        {
+          "ID": "wrld_1c837745-7bbe-431b-bf06-55524f3e8009",
+          "Name": "UgSpace-Cepheus",
+          "Description": "地下空間でゆったり雑談したり、麻雀が楽しめます。-You can enjoy chatting or playing mahjong in the underground space․"
+        },
+        {
+          "ID": "wrld_a4a84caf-65e4-4432-b53c-e51c162c7525",
+          "Name": "森を見ながらchillするだけ",
+          "Description": "森を見ろ！"
+        },
+        {
+          "ID": "wrld_8343c5df-73f5-44f1-b189-0174598b4a31",
+          "Name": "NoHako",
+          "Description": "NoHako Thanks for coming ˸3 AAYOISHOǃ Waiting for rework 2025"
+        },
+        {
+          "ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+          "Name": "キロバイトのうみ - Sea of KB",
+          "Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。"
+        },
+        {
+          "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+          "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+          "Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄"
+        },
+        {
+          "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
+          "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
+          "Description": "「未来［あした］の僕らに残せる物は何？」 Flying System ＝≻・Desktop˸［Tab］・VR˸Grab object near the neck and use"
+        },
+        {
+          "ID": "wrld_e36601f1-a2a1-46eb-9ce8-5a9ed54e444b",
+          "Name": "Sleeping Camp Fire",
+          "Description": "Camp Night Fire"
+        },
+        {
+          "ID": "wrld_82861a2b-5b04-42eb-899d-3db734f966e2",
+          "Name": "宙夢島 -Stratoreverie Island-",
+          "Description": "そらのゆめ。"
+        },
+        {
+          "ID": "wrld_12fae8ad-da03-4c62-bdbc-1173713bd007",
+          "Name": "秘密基地みたいなたまり場 ~Secret base House~",
+          "Description": "作業とかまったりしたい時にお使いください。"
+        },
+        {
+          "ID": "wrld_be8e5a7b-522b-48e0-9999-b9738c5a9b6f",
+          "Name": "ぐーたら和室 -Japanese Chill Room-",
+          "Description": "ゆったり過ごせる和室を作りましたご自由にお使いください 囲炉裏‚こたつ‚布団etc Audio-Link対応済み 2023⁄04⁄02更新 Join音 睡眠用斜め鏡 水槽追加"
+        },
+        {
+          "ID": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
+          "Name": "Nest ネスト",
+          "Description": "Welcome to Nest~ Pacifia&#39;s answer to the ARCC Solar Cabins project․ Nestled away in a hidden facility and covered in dense foliage‚ Nest offers a pleasant and solitary habitat for research subjects l…"
+        },
+        {
+          "ID": "wrld_8fb6757c-46c9-429c-8a0c-6b8e82c7cc52",
+          "Name": "Frozen Star",
+          "Description": "Stuck inside due to a snow storm‚ take this time to relax and enjoy yourself․ A small cabin with comfy rooms‚ interactive stars and plush․"
+        },
+        {
+          "ID": "wrld_d614218a-d40b-4fc4-9de8-6593a7bae950",
+          "Name": "じゅん基地 -CABIN-",
+          "Description": "じゅん基地キャビン。昼夜変更が自由にできます！まったりできるスペースです。"
+        },
+        {
+          "ID": "wrld_323e9cea-1f83-45d9-8a1d-c7a9e50ee191",
+          "Name": "ABYSS",
+          "Description": "Find the Truth․"
+        },
+        {
+          "ID": "wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd",
+          "Name": "Sovren&#39;s Chill home",
+          "Description": "just a small world packed with stuff to do in a comfy atmosphere there is a video player there is beer pong there is a pool table as well as never have i ever out side and a few drink games in doors …"
+        },
+        {
+          "ID": "wrld_0ecfdd44-2cf4-4520-9d8f-0ab260348367",
+          "Name": "Before I go",
+          "Description": "The city shone like a star before you left․"
+        },
+        {
+          "ID": "wrld_4aaedbad-8d02-4163-bbe1-268a52ec5432",
+          "Name": "Emerald Valley",
+          "Description": "A peaceful valley with inspirations from Sky˸COTL and various other sources․ Plenty of secrets to discoverǃ Support me on Patreonǃ patreon․com⁄MankeyDog"
+        },
+        {
+          "ID": "wrld_6e23aa88-050c-49d9-be7f-7f029bf13560",
+          "Name": "鉛色茶寮 ーcafe Namariiroー",
+          "Description": "オリエンタルな雰囲気ただよう喫茶店です。降りしきる雨のなか、うっそりとしたひとときをー Unity2019対応"
+        },
+        {
+          "ID": "wrld_9da1349e-470b-47fd-a9b5-bd57d49255e2",
+          "Name": "Spirits of the Sea 海の幽霊",
+          "Description": "Updated 24-Apr-2025"
+        },
+        {
+          "ID": "wrld_e9a31011-8401-4b72-af0f-0d7595328c0c",
+          "Name": "Summer Solitude",
+          "Description": "A Summer evening overlooking Hong Kong․ Naturally lit room․ Mirrors‚ Movie room‚ Pens‚ Pool and moreǃ"
         }
-    ]
+      ]
+    },
+    {
+      "Category": "Portal_World",
+      "Worlds": [
+        {
+          "ID": "wrld_60f43dc6-97ff-478f-9371-dd1f103feff5",
+          "Name": "PORTAL STORAGE-ポータルストレージ-",
+          "Description": "2024⁄12⁄22更新 WorldCount PC˸700 Quest˸500 左のPCワールドは景観の良いワールドを、 右のQuestワールドは様々なジャンルのを設置 サムネ画像をUSEする事でポータルが出現します"
+        },
+        {
+          "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+          "Name": "［JP］クエストトビラ QUEST TOBIRA",
+          "Description": "クロスプラットフォーム・日本語対応ポータルワールドです。"
+        },
+        {
+          "ID": "wrld_88c85201-35fa-4dad-87a9-eb6cfecd8987",
+          "Name": "Particle Live World Collection",
+          "Description": "The hub features VRMVs‚ Animations and Music Visualizers․ このワールドはパーティクルライブワールドを巡るグループがまとめたデータを基に作成されました。データ収集、探索に感謝。"
+        }
+      ]
+    },
+    {
+      "Category": "VRMV",
+      "Worlds": [
+        {
+          "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
+          "Name": "よるとうげ -Yorutouge-",
+          "Description": "-星くんが誘うKikuo音楽体験世界- （Hoshikun invites you into the world of Kikuo music experiences） -この夜をこえよう。 高揚し、入り込み、溶かし、振り返り、ぐちゃぐちゃになりながら、 何度でもこの夜をこえよう。-Beyond the night․ Uplifting‚ immersing‚ melting‚ looking …"
+        },
+        {
+          "ID": "wrld_e7cadfb6-0e3b-4489-9398-fa4c5477a7f7",
+          "Name": "Walk",
+          "Description": "Animation world˸ Yorushika - sun （2024 HNY）"
+        },
+        {
+          "ID": "wrld_1eee5892-371d-43b1-b8af-0afaa635b401",
+          "Name": "Colorblind",
+          "Description": "Song˸ Netrum - Colorblind （feat․ Halvorsen） ［NCS Release］ Music provided by NoCopyrightSounds Free Download⁄Stream˸ http˸⁄⁄ncs․io⁄Colorblind Watch˸ http˸⁄⁄youtu․be⁄5S5zfXao-h0"
+        }
+      ]
+    },
+    {
+      "Category": "liminal",
+      "Worlds": [
+        {
+          "ID": "wrld_3a918e80-4045-455d-a230-5725e1d42044",
+          "Name": "April Waters",
+          "Description": "descend on me‚ pristine waters of April․ enfold me‚ close my eyes․ rise me above this soil․ to whirl and fade with playful dust in the sky light․"
+        },
+        {
+          "ID": "wrld_0073106b-ad39-4dd4-abe6-42df6837fed3",
+          "Name": "いなくなったフレンドを探すワールド",
+          "Description": "いなくなってしまった僕の大切なフレンドを探すお手伝いをしてください ＃Lunar_NFH"
+        },
+        {
+          "ID": "wrld_e94d2daf-17b0-4ee5-870c-bb45b428da34",
+          "Name": "1619Hz＃",
+          "Description": "Dystopia＆Fantasy"
+        },
+        {
+          "ID": "wrld_3cadba78-00df-42a5-9438-6e5036307b7c",
+          "Name": "Lab 23-7B",
+          "Description": "Lab 23-7B focuses on solving the mysteries of an anomalous floating body of water․ Please enjoy your visitǃ"
+        },
+        {
+          "ID": "wrld_ea36e182-ce42-4e2a-ba9f-69418fd29c8d",
+          "Name": "Yayoi lost city",
+          "Description": "Stuck in the past 。｜ BGM：We Became Strangers by TYMELAPSE․"
+        },
+        {
+          "ID": "wrld_331a75e6-bc9b-4a7c-9c8e-b25a0b932cd9",
+          "Name": "Apocalypse 末世",
+          "Description": "bgm˸最終兵器 - MONACA‚岡部啓一"
+        },
+        {
+          "ID": "wrld_edcf8188-5da2-4c3d-827c-0eddeb10e531",
+          "Name": "Ruins on the Hill ～丘の上の廃墟～",
+          "Description": "ここはかつて魔道士の研究施設だった建物です。今は誰もいないはずですが・・・おや？何か聞こえてきませんか？"
+        },
+        {
+          "ID": "wrld_846fd2ab-5e11-4e2b-ba80-2d835a3d90d0",
+          "Name": "魔法図書館スセトラン⁄Magical Library Susetran",
+          "Description": "この図書館にはとある魔法使いがよく来るという․․しかし出入り口なんて見当たらない どうやらここの図書館は時が止まっているようだ きっと持ち主が戻ってくるまで動かないのだろう どうやらエリア２が誕生したようだ 注意・エリア２の壁コライダーの設定が完了していません"
+        },
+        {
+          "ID": "wrld_dd2224ef-dd71-4e8d-a374-4ad377aa33bc",
+          "Name": "Highrise Pool",
+          "Description": "Yes‚ it&#39;s THAT pool․ （Literally my first upload‚ don&#39;t hate too much ≺3）"
+        },
+        {
+          "ID": "wrld_a703bce6-5bb6-4f3f-9267-53e2920fe233",
+          "Name": "RASEN",
+          "Description": "liminal spaceな階段です。襲ってくるものは居ませんよ。（A liminal space staircase․There is nothing coming to attack you․）"
+        },
+        {
+          "ID": "wrld_5d276189-aebe-4ff8-99cc-41c8da81d089",
+          "Name": "深層心理静寂のテンペスト",
+          "Description": "高負荷注意 作者˸ShinAqua Twitter˸＠shin_aqua"
+        },
+        {
+          "ID": "wrld_ff765386-e5ba-44d1-8a96-eecb41523c68",
+          "Name": "クラックスラム⁄Illegal Architectures",
+          "Description": "モデルデータはほぼフルスクラッチのワールドです。blender⁄SP 元ネタ：․hack G․U․ ネットスラム"
+        },
+        {
+          "ID": "wrld_e9c38ee6-b095-4431-b9f4-e95429a18876",
+          "Name": "STRANGEWAYS",
+          "Description": "Once in the void‚ a stone spoke &#39;How many things are there?&#39; A leaf thought &#39;There can be as many things as you want there to be&#39; Where will I find them? Blinked the eye"
+        },
+        {
+          "ID": "wrld_509a5ea7-1752-4d3c-aa72-0e055cffef63",
+          "Name": "Dream and Fragments~夢と断片~",
+          "Description": "夢と断片。 複数セクションで構成されたワールドです。 エリアごとにそれぞれ異なる用途の部屋が用意されています。 負荷も低く、快適に過ごすことも可能です。 バス停から各エリアに飛ぶことが可能です。 可能な限り自作するという目標でこのワールドを作りました。 ここでなにをするかは、あなたの自由です。 ハッシュタグ ＃Dream_and_Fragments 更新履歴 2024⁄10⁄29 ワールド公開 …"
+        },
+        {
+          "ID": "wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06",
+          "Name": "Terra Cotta Valley",
+          "Description": "Softly flowing water curves through the empty valley at the edge of the world‚ you stand precariously on the precipice of this world while elsewhere a soft tune hums from the recesses of the dark․ Wh…"
+        },
+        {
+          "ID": "wrld_d2aad3fe-5d0f-45fc-9778-68c497dc5a5f",
+          "Name": "Ritual （v․1․3）",
+          "Description": "․․․don`t ask me please․․․"
+        },
+        {
+          "ID": "wrld_4e396b98-d8c8-45e2-b7a6-81e44c37945b",
+          "Name": "Liminal Dock",
+          "Description": "UPDATE- Added one more Area （the Liminal Train Station） also optimized world"
+        }
+      ]
+    },
+    {
+      "Category": "イベント会場",
+      "Worlds": [
+        {
+          "ID": "wrld_880d3139-3222-45ba-88dd-8afa15e600c9",
+          "Name": "ゆるっとハウス_Yurutto House_",
+          "Description": "スイーツや各種お飲み物をご用意しています。どうぞごゆっくりお過ごしくださいませ。（某兎家をモチーフにしています）This world is Chill Cafe World․ We offer sweets and various drinks․ イベント用グループはこちらhttps˸⁄⁄vrc․group⁄YRTHUS․2562"
+        },
+        {
+          "ID": "wrld_e769f9b5-d9a9-45b4-913f-b5ce7e1ee654",
+          "Name": "ゲーム好きが集まる喫茶店「こ」ねこのす",
+          "Description": "定期雑談イベント『ねこのす』⁄第二第四金曜日２２時から営業中。ゲームが好きなあなたをお待ちしております。"
+        },
+        {
+          "ID": "wrld_ec7fd5c2-0c2e-400e-a4ba-570388432a46",
+          "Name": "ゲーム好きが集まる雑談イベント『喫茶ねこのす』",
+          "Description": ""
+        },
+        {
+          "ID": "wrld_49aded8e-b035-4cf5-b908-35e0582824a2",
+          "Name": "裏・VR筆記ワールド",
+          "Description": "鏡と対話するワールドだよ！ ・鏡の前でジャンプすると一段上に上がれます。 ・右スティックを後ろに倒すとペンを呼び出せます。【Photo by ビジホマン｜Bizihoman】"
+        },
+        {
+          "ID": "wrld_8cdbe0d5-d462-489c-b51a-0d10cf5f046d",
+          "Name": "「バチャる屋」VRC向けTCGプレイヤー集会場",
+          "Description": "入室問題、タグマーカー、TopazChatを利用したリモート対戦台などがあります ご要望などあれば作者XのDMまで"
+        },
+        {
+          "ID": "wrld_3b542802-1b3f-4206-babd-690513565c7a",
+          "Name": "おじさん回し道場 Gentleman Spinning Hall",
+          "Description": "みんなでやろうおじさん回し"
+        },
+        {
+          "ID": "wrld_715ca321-2c18-4d36-abd5-6b917c0027f9",
+          "Name": "ITインフラ集会",
+          "Description": "ITインフラ集会は隔週土曜日22˸00-23˸00開催 ITインフラ集会グループ（INFRA․4469）へJoin！ Twitter˸ ＠it_infra_meetup ハッシュタグ˸ ＃ITインフラ集会 このワールドは自由に使うことができます。困ったことがあれば作者まで連絡してください。"
+        }
+      ]
+    },
+    {
+      "Category": "ゲームワールド(アナログ)",
+      "Worlds": [
+        {
+          "ID": "wrld_dee398c7-74cf-4a1b-9706-eb638a4bede8",
+          "Name": "花札 Hanafuda",
+          "Description": "花札ができるワールド。自動点数計算付きなので役覚えてなくても大丈夫！Hanafuda can be played․ With automatic score calculation‚ it eliminates the need to remember handsǃ"
+        },
+        {
+          "ID": "wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb",
+          "Name": "Better UNO",
+          "Description": "Automatic UNOǃ Card game․ Sit back‚ relax‚ and give your friends ＋4sǃ Supports Desktop and up to 8 players․"
+        },
+        {
+          "ID": "wrld_ed689d88-4c79-400c-b993-b14c515563cf",
+          "Name": "Shogi Garden",
+          "Description": "A shogi world‚ made with U＃․ 【 将棋 庭園 】【 KIF対応 】"
+        },
+        {
+          "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+          "Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+          "Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join …"
+        },
+        {
+          "ID": "wrld_bea51ccc-1a4c-46c2-8570-0f216d9d8cee",
+          "Name": "ボードゲーム トウキョウのハト エサバ・バトル＋はらぺこバハムート＋他",
+          "Description": "とりあえず遊べます 現在あるゲーム トウキョウのハト エサバ・バトル（2人用） はらぺこバハムート（2人用） 絶対に××したりしない！（～4人用） そこまで絞るには眠れない夜もあっただろ（～6人用）犯人は踊る（3～8人用）適当なカンケイ（3～8人用）ゲームの追加はここまで、あと細かいところ整備します 最終更新11⁄21"
+        },
+        {
+          "ID": "wrld_87ff9b30-50f6-4fb3-9753-e25bf266b852",
+          "Name": "【公式】B-CAFE VRC店 ⁄ ボドゲカフェ",
+          "Description": "2024․4․15 火災でPCごとデータが焼失し更新不可能になってしまいました。 B-CAFEオリジナルゲームが実際に遊べる！ リキュール・ザ・ゲーム⁄カンバンメニュー⁄みんなでメイキングBLシリーズ⁄みんなでメイキングクトゥルフ⁄そういうお前はどうなんだ？⁄ポエモ"
+        },
+        {
+          "ID": "wrld_cb5bffcf-5c86-4c05-a7b4-8207f327c10b",
+          "Name": "Moon Animal War",
+          "Description": "2-4人 ∗3Room 本格的な戦略ボードゲームが登場！ 4つの個性的な陣営の力を駆使し、月の裏側を手中に収めよ！ 4カ国語対応（日・英・中・韓） QUEST⁄PCVR⁄DESKTOP オリジナルボードゲーム第三弾 2-4 players ∗3Room A full-fledged strategy board game is now availableǃ Use the power of fo…"
+        },
+        {
+          "ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
+          "Name": "Ludo",
+          "Description": "ボードゲームのLudoをプレイできるワールドです。友達と一緒に遊んでみてください。CPUと対戦もできます。 This is a world where you can play the board game Ludo․ Try playing with your friends․ You can also play against the CPU․"
+        },
+        {
+          "ID": "wrld_76dec6dc-b280-499b-b588-afebc20c178d",
+          "Name": "Tarot Card Reading Room",
+          "Description": "The Tarot Reading Room with Udon․ Full Arcana․ Shuffle System․ Added height adjustment and cameram is implemented by UDON"
+        },
+        {
+          "ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
+          "Name": "ユーロアの隠れ家 Euroa&#39;s Hideout",
+          "Description": "楽しいワールドギミックがなんと100種類！ 一人でゆっくり遊んだり、みんなとワイワイ遊んだり！ 初心者さんでも遊びやすいギミックをたくさん用意してます！いつでも遊びに来てください！"
+        },
+        {
+          "ID": "wrld_1331a91f-5ace-4c7d-959f-d139fa6f1d65",
+          "Name": "風花の小夜 -クトゥルフ神話TRPG-",
+          "Description": "クトゥルフ神話TRPGオリジナルシナリオ「風花の小夜」です。少しでも楽しんでいただけたら嬉しいです。"
+        },
+        {
+          "ID": "wrld_75b75e18-2705-44a9-844e-b97cb3e87154",
+          "Name": "인디언 포커",
+          "Description": "더 지니어스에 나온 룰 버전의 인디언 포커 게임 월드입니다"
+        },
+        {
+          "ID": "wrld_2bed7b65-7b9d-43e8-8ef1-2ce3f02c42d6",
+          "Name": "ケモノ調査団～けもの島と2つの秘薬～",
+          "Description": "オリジナルボードゲームが遊べるワールドです。ルールが簡単でボドゲ初心者でも遊べます。ケモノ達と調査団を結成し、ダイスで探索して秘薬調合の素材を集めよう。 プレイ人数2-6人 所要時間15-30分 5⁄28 アップデートしました"
+        }
+      ]
+    },
+    {
+      "Category": "ゲームワールド(デジタル)",
+      "Worlds": [
+        {
+          "ID": "wrld_94d1bce9-7b9e-4c58-8277-0fe62b5770c2",
+          "Name": "Submerge",
+          "Description": "Take a ride to the depths below‚ 1-2 player world‚ please use a private instance․ - Spookality 2019 Updated for 2018 Unity․ fixed FBT station"
+        },
+        {
+          "ID": "wrld_b324cfad-7c01-47af-a33c-93c192be9df8",
+          "Name": "投票ダービー - Voting Derby",
+          "Description": "他の人の投票を推測してパワーを発揮できそうなお馬さんに投票しよう！ ｜ 推奨人数：5～16人 ｜ 所要時間：8～13分 ｜ VR ⁄ デスクトップ 両対応"
+        },
+        {
+          "ID": "wrld_0ed69379-d849-4d58-a0c3-d6bcbcadbe48",
+          "Name": "MedalGameWorld",
+          "Description": "メダルゲームが遊べるワールドです。現在14機種で遊べます。メダルを増やしてランクを上げよう！"
+        },
+        {
+          "ID": "wrld_df2776a3-8c84-45e3-bbf1-30ac8422911b",
+          "Name": "Kitchen Cooksǃ",
+          "Description": "Co-op cooking challenge gameǃ The customers are rushing in‚ order upǃ"
+        },
+        {
+          "ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+          "Name": "Idle Home",
+          "Description": "Idle game․ 放置ゲーの勇者に転生してしまった"
+        },
+        {
+          "ID": "wrld_46034610-ca29-4a0c-8182-1d64a4986f9a",
+          "Name": "［JP］Udonすごろく ユア・ライフ・ストーリーver1․3",
+          "Description": "12⁄15 うまぴょん追加 Udonすごろくだよ。ルーレットを回して一番のVR金持ちになろう！君を生きねば。"
+        },
+        {
+          "ID": "wrld_bd2218fe-f727-43d0-acc7-25c364f1140b",
+          "Name": "刹那の見斬り - Udon Samurai VRC -",
+          "Description": "某ゲームに登場するミニゲームを再現したものです。合図が出たら素早く刀で斬りましょう。 This world is a recreation of a mini-game from a certain game․ When the signal is given‚ quickly slash with your sword․"
+        },
+        {
+          "ID": "wrld_580d4963-7b4c-4a0e-b7fe-390e100f5841",
+          "Name": "Kon Lake Fishing",
+          "Description": "The constellations visible in this world are based on ESA⁄Hipparcos data․"
+        },
+        {
+          "ID": "wrld_996351a8-7002-4fa2-8a4b-dd120aaf909e",
+          "Name": "月面飛行試験場 - Lunar Flight Test Site -",
+          "Description": "月面飛行試験場 - Lunar Flight Test Site - ＃VRCPFW ワールドギミックで飛行、高速移動ができます。PCキーボードのTキーを押すことによりPC側のウインドウの表示が三人称視点有効になります。2023⁄05⁄26更新"
+        },
+        {
+          "ID": "wrld_e4faa824-019c-40e0-a996-1f327d942687",
+          "Name": "神撃の刃 God of blade",
+          "Description": "ストレス発散用のワールドです、少し重いかもしれないが、楽しんでください。 素材は借り⁄購入のものだけです。決して実在する都市や人を指すわけではないです。"
+        },
+        {
+          "ID": "wrld_9870aa37-916c-4e90-ba71-b8703c8204b3",
+          "Name": "Ramu&#39;s Gun Range",
+          "Description": "Play around with firearm mechanics and take on challenges to beat your friends&#39; scoreǃ"
+        },
+        {
+          "ID": "wrld_f6dcd016-a5b1-47fd-906e-db9b4cd46a4b",
+          "Name": "Aoinu&#39;s Shooting Lab˸ SQUAD",
+          "Description": "PvE Shooting Game"
+        },
+        {
+          "ID": "wrld_f7a25364-c6a5-4b12-af64-c67bd95ef960",
+          "Name": "DrivingCity at Night",
+          "Description": "amesake Driving World vol․1 2023․11․21現在、表示が壊れています。 Now is broken․"
+        },
+        {
+          "ID": "wrld_75e6540d-5b53-4251-9f54-13af2f9d6d26",
+          "Name": "どらいぶ島 - VR Drive Island -",
+          "Description": "2018"
+        },
+        {
+          "ID": "wrld_0ae33725-8c02-453e-966c-a6457ba8d003",
+          "Name": "元彼の家 Ex&#39;s house",
+          "Description": "Destructible Japanese Apartment Rooms むかつく元彼の家 破壊したいですよね？ 現実では犯罪ですがVRなら合法的に破壊し放題 思いの限り釘バットを叩きつけましょう ただし勢い余ってリアルのお家を壊さないように気をつけて （大学の課外で共同製作 後から来た人の初期状態は同期しません）"
+        },
+        {
+          "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+          "Name": "PROJECT˸ SUMMER FLARE",
+          "Description": "Break the Summer․ Break the tower․ Complete the Meridian Loop․ A story about reality and humanity․"
+        },
+        {
+          "ID": "wrld_c1218afa-58ad-43a1-9a38-d4f1cf8f7eea",
+          "Name": "KEY LOCK - パズルアクションゲームワールド -",
+          "Description": "KEY LOCK"
+        },
+        {
+          "ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
+          "Name": "［JP］UDON-SABER うどんせいばー",
+          "Description": "≺PCVR REQUIRED≻｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜Quest版はUDON SABER QUESTで検索｜For Quest ver‚ search ＂UDON SABER QUEST＂․"
+        },
+        {
+          "ID": "wrld_05d72aa9-6fe1-4875-b7c2-c4fbcbc4df7d",
+          "Name": "8番出口VR VRChat World ｜ The Exit 8 VR VRChat World",
+          "Description": "こちらのワールドは「８番出口VR」のゲーム性をご体験いただける公式デモワールドです。This is the official demo world where you can experience the gameplay of The Exit 8 VR․＂ ⁄ ∗ゲーム内のポスター、広告はデザインAC様の素材を利用しております。∗Posters and advertisements in t…"
+        },
+        {
+          "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
+          "Name": "city湊 for Helicopters",
+          "Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！"
+        },
+        {
+          "ID": "wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f",
+          "Name": "NeoWorlds",
+          "Description": "VRChat like you&#39;ve never seen it before"
+        },
+        {
+          "ID": "wrld_f55a3005-6bfa-4fee-9c4c-808255a7fbf0",
+          "Name": "Deagle Duel",
+          "Description": "日本語対応しました！ A PvP game featuring deaglesǃ Do YOU like deagles? Well‚ now you can shoot each other with themǃ （there is definitely only deagles）"
+        },
+        {
+          "ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
+          "Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）",
+          "Description": "一対一の対戦パズルゲーム（一人で練習プレイも可能）One-on-one PvP puzzle game （you can also practice by solo） 2025⁄6⁄22 - 通信を最適化（内容の変更はないです）"
+        },
+        {
+          "ID": "wrld_32dca393-84f9-4a9b-8055-7533df73d25e",
+          "Name": "VRCボードゲーム「EXPLOIT」",
+          "Description": ""
+        },
+        {
+          "ID": "wrld_2eeb28bc-fa49-4436-83f6-9e904ea64fc1",
+          "Name": "Buckshot Roulette˸ Gmod port",
+          "Description": "Step into Buckshot Roulette‚ Inspired by the tense and unpredictable gameplay of the original‚ this world is a VRChat remake of the Gmod map by DrownedKnight․ This world requires atleast 2 people to …"
+        },
+        {
+          "ID": "wrld_6910309b-1b75-473d-8196-c8963263f00f",
+          "Name": "オトだけのセカイ～SoundOnlyWorld～",
+          "Description": "目には見えない音だけの世界で音楽のカケラを探すゲームワールドです。クリアタイムが出ますので協力でも対戦でも楽しめます！⁄ Singer：Amarilli ⁄ navi：Anzu（X：＠ Anzu_chan04‚ VRChat：あんず -Anzu-‚ Group：あぷりこっこくらぶ）"
+        },
+        {
+          "ID": "wrld_17ba579c-19c3-4644-8753-ab51e4e87ae0",
+          "Name": "Armored Udon Universal Edition WIP",
+          "Description": "8⁄5 ミサイルの同期を改善しました。 ＡCライクなハイスピードアクション×メカカスタマイズゲームワールド 最大3対3でチーム対戦ができます。 VR、Desktop両対応 ３人称視点と１人称視点を選択可能（VRのみ） Armored core like high speed shooting game․ For 2～6 players․"
+        },
+        {
+          "ID": "wrld_243a05de-146a-4a82-9289-a23f80643896",
+          "Name": "AK-47 SIMULATOR 2025",
+          "Description": "Udon上でシミュレートされたAK-47を弄って実銃の動作機構と発射手順を容易に学習できるワールドです。 本ワールドに用意されているAKはストックやハンドガードを変更したり照準器を追加したりすることができます。 自分好みにAKを改造してPvPフィールドやシューティングレンジで遊びましょう！ 何かありましたら立花樹のツイッターまでどうぞ。（プロフィールリンク参照）"
+        },
+        {
+          "ID": "wrld_21bb75ba-60b6-4640-b4ca-0473f093c4db",
+          "Name": "New Udon Bomb",
+          "Description": ""
+        },
+        {
+          "ID": "wrld_2fdeaa79-ed4f-4376-9540-edb06b399fa8",
+          "Name": "ShootingRangeEX",
+          "Description": "Training for Delta - ShootingBattleVRC"
+        },
+        {
+          "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+          "Name": "A Simple Fishing World",
+          "Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v30 - Welcome Summerǃ New seasonal itemsǃ"
+        },
+        {
+          "ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
+          "Name": "Project Aincrad 1․6․2p2",
+          "Description": "Actively maintained recreation of Sword Art Online in VRChat‚ made by the ArgusVRC team․"
+        },
+        {
+          "ID": "wrld_a5740e51-4df7-44ba-83b9-8ed4d3508c0b",
+          "Name": "Magical Lost Dungeon",
+          "Description": "Action Dungeon RPG Game World for 1-4 player․ 日本語 ⁄ English․ 複数人プレイ時同期ズレが起きやすい問題が現バージョンで確認されています（作者環境で更新が出来なくなっているため修正できていません）"
+        },
+        {
+          "ID": "wrld_f4c200f6-0227-4d8a-b886-50613b002246",
+          "Name": "Dimensional Twins",
+          "Description": "2D and 3D dimensional co-op game where you can control your friend․ ⁄ フレンドを操作して遊ぶ、2Dと3Dを組み合わせた2人プレイVRゲーム Version_1․2"
+        },
+        {
+          "ID": "wrld_25e35088-d158-4bf7-9989-5ecc4bdc7dd4",
+          "Name": "Quiz 500&#39;s about your Friend",
+          "Description": "ガキの使いのコーナー「クイズ500のこと」をプレイするためのゲームワールドです。 11⁄11 説明スライドを動画に差し替え 11⁄12 マイクエリアON⁄OFF修正"
+        },
+        {
+          "ID": "wrld_fba7ee36-9fb8-4546-be26-5105442bd029",
+          "Name": "USEMONO -Seekers Inc․-",
+          "Description": "お客様のお家で制限時間内に失せ物を探し出せ！シンプルなルールの楽しい宝探しゲーム。「あなたは失せ物探しのエキスパートです」 Find the lost items in the customer&#39;s house within the time limitǃ A fun treasure hunt game with simple rules․ You are an expert in lost-…"
+        },
+        {
+          "ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+          "Name": "Elite&#39;s RNG Land",
+          "Description": "Reach for the stars as you put your luck to the ultimate test․ Roll for Auras of various chances and display your luckiness to your friendsǃ World is currently in active development․"
+        },
+        {
+          "ID": "wrld_8858b990-f35e-40c2-a6a7-1dc2c9e2a185",
+          "Name": "Dot ［Desktop Only］",
+          "Description": "デスクトップ専用集会ワールドです。Tabキー長押しでUIが操作できます。 Illustration by ＠UMEBOSHIBENTO"
+        },
+        {
+          "ID": "wrld_8edc917f-0616-46bb-bbbb-a6b405070a65",
+          "Name": "MAZE RUNNER",
+          "Description": "Based on the maze runner movie‚ the Maze changes every 2 mins‚ so watch your back and try and remember the way from start to finish‚ There are many areas to see inside the maze‚ and the finish now en…"
+        },
+        {
+          "ID": "wrld_3f9fa89b-8f17-4f43-ad7f-e9fc1bdb46ca",
+          "Name": "Buckshot Bar",
+          "Description": "Buckshot Roulette Bar"
+        },
+        {
+          "ID": "wrld_763c51b6-d96e-49ed-b340-7dadb1d68e78",
+          "Name": "Shotgun Roulette 2 - 4 Players Like Buckshot Roulette PVP［EN‚CHS‚JA］",
+          "Description": "Japanese translation˸ 四迹ovo、新选组の拉普兰德"
+        },
+        {
+          "ID": "wrld_97e6ee0e-a499-44e8-a4ca-e6e417e48284",
+          "Name": "Luckless Domain ［1⁄8192］",
+          "Description": "みなさん右か左かどちらかに歩いて行かれますね"
+        },
+        {
+          "ID": "wrld_7187b577-bd38-43b6-a699-d39889b1b97f",
+          "Name": "Pap&#39;s Shooting Range",
+          "Description": "VRChats biggest arsenal of historical German firearms‚ tools and weapons built into a shooting range․ Find your favorite arms from the years of the Kaiserreich‚ over the Weimar Republic‚ and up to th…"
+        },
+        {
+          "ID": "wrld_d53ef0de-ba7d-4e2a-bb22-f26db5008d0d",
+          "Name": "Aegis Karting Park",
+          "Description": "Up to 16 players can drive around on this 1․17km race track․ A circuit that is easy to learn‚ rewarding to master․"
+        },
+        {
+          "ID": "wrld_4eee24b7-0570-49a4-b7e7-cf7fee69aeb9",
+          "Name": "［PvP］ Just 1v1",
+          "Description": "［v1․4․2］［~24players］ Win 3 rounds in a speedy 1v1ǃ スピーディーな1v1で戦うワールドです。対戦レートは保存され、次のJoin時にロードされます。最大24人まで同時に対戦できます。 ＃Just1v1VRC"
+        }
+      ]
+    },
+    {
+      "Category": "サンプルアバター",
+      "Worlds": [
+        {
+          "ID": "wrld_c5740a26-595c-4d7b-abaa-1ff51d3c6d2d",
+          "Name": "男性アバター試着ワールド MEN&#39;S AVATAR PEDESTALS",
+          "Description": "男性アバターのみを集めた常設の試着ペデスタルワールドです。現在の展示数【249体】／展示アバター常時募集中！ 詳しくはワールド内インフォメーションまたはポスターをご覧ください。／【2025⁄07⁄26】アバター4体追加、既存アバター1体のサムネイル変更＋販売ページURL追加、会期の終了したポスターを1点撤去"
+        },
+        {
+          "ID": "wrld_77593d1e-60a3-497a-81ee-7066ddb58564",
+          "Name": "Invisible Avatar（Quest Compatible）",
+          "Description": "Contains a pedestal with a 0 polygon avatar․ A completely invisible avatar‚ no need to show avatar for someone to not be able to see youǃ"
+        },
+        {
+          "ID": "wrld_154dd14a-1533-4fd9-a0e6-2c53ca6fd9c3",
+          "Name": "Milltina Sample World ［ミルティナ］",
+          "Description": "https˸⁄⁄dolosart․booth․pm ⁄ Avatar Creator˸ DOLOS ⁄ World Creator˸ Yan-K"
+        }
+      ]
+    },
+    {
+      "Category": "ネタ",
+      "Worlds": [
+        {
+          "ID": "wrld_0b1f46c5-f60b-46c1-94e1-7880ac988901",
+          "Name": "絵本読み聞かせワールド",
+          "Description": "決して多くを語らない。。。ｖ4․20（2025⁄07⁄01てんぐのかくれみの追加）"
+        },
+        {
+          "ID": "wrld_9a8e58e8-fc8c-4081-ae3a-8d782c3cdb07",
+          "Name": "Demon Core Totally Accurate Recreation",
+          "Description": "Experience an exact recreation of the demon core disaster․ Voiced by Spencer Filson․"
+        },
+        {
+          "ID": "wrld_bd51a16b-1b06-4a3e-b1a1-436873454c19",
+          "Name": "Experience",
+          "Description": "Alpha v1․02"
+        },
+        {
+          "ID": "wrld_1b393079-93ba-4370-9c51-fe26cfd090c5",
+          "Name": "PaperVRC Prototype",
+          "Description": "man i love paper mario"
+        },
+        {
+          "ID": "wrld_34dfd244-c2ec-452a-897a-25b21320d8b2",
+          "Name": "あやしいけんきゅうじょ ⁄ Immoral Laboratory",
+          "Description": "このワールドはジョークワールドです。洗脳・催眠といったものに影響を受けやすい方はご注意ください This world is a joke world․ Please be careful if you are susceptible to brainwashing or hypnosis․ VRChatの利用規約を遵守し、パブリックインスタンスでセンシティブな格好や行為はしないでください Ple…"
+        },
+        {
+          "ID": "wrld_5ef1f09c-a4dc-4fef-8cc1-45d9b82dbe00",
+          "Name": "上原邸 Uehara Residence",
+          "Description": "アバター保管庫です。2025-03-19アバター投稿フォームを開設しました。⁄ Avatar storage․ 19 Mar 2025 Avatar Submission Form is now open․"
+        },
+        {
+          "ID": "wrld_9d949c05-2938-46d7-9fb0-2745c09fb017",
+          "Name": "ぐるぐるハウス -rotating house-",
+          "Description": "家がぐるぐる回ります。めちゃくちゃ酔うので注意！Please be careful of VR sickness․"
+        },
+        {
+          "ID": "wrld_f6de97af-bea8-4da8-a964-f72a5936a284",
+          "Name": "YMMD",
+          "Description": "梅雨って終わりました？"
+        },
+        {
+          "ID": "wrld_aac4cd8b-d543-4c6b-aea3-51a167af8aa4",
+          "Name": "でっかいミルティナがいるお部屋-So Big Milltina-",
+          "Description": "でっかい"
+        }
+      ]
+    },
+    {
+      "Category": "フレンドさん御用達",
+      "Worlds": [
+        {
+          "ID": "wrld_1c08242f-5775-4edd-9279-61fd396e4146",
+          "Name": "Mirabelle`s storage room~ミラベルの物置部屋~",
+          "Description": "作ったもの置いたりパーティクル撃てたりする実験場と物置を兼用してる場所"
+        },
+        {
+          "ID": "wrld_9a8eaa97-2e21-4733-89a3-74d16d1e1cd7",
+          "Name": "bar pink salt",
+          "Description": "bar pink salt"
+        },
+        {
+          "ID": "wrld_af4f1e67-576d-4e97-bb73-e3a38963b94b",
+          "Name": "最強",
+          "Description": "HOME"
+        },
+        {
+          "ID": "wrld_3100a97d-9d4f-4272-8cac-0bf2d5f978b5",
+          "Name": "塩湯農園K2 503号室",
+          "Description": "jaguti0721の家 だれでも来てね"
+        },
+        {
+          "ID": "wrld_5ac25af1-20e9-4e99-a6f3-ef70aba7b195",
+          "Name": "蚱室",
+          "Description": "蚱（くらげ）室。青と白を基調にしたチルとV睡用のワールドです。持ち運び式のYamaPlayer、ペン、quest対応ナイトモード、HQLQミラーorカットアウトミラー等を設置済み。"
+        },
+        {
+          "ID": "wrld_aea5df69-cf43-4d7e-b8ba-6e032bbf6501",
+          "Name": "風呂と月と （Bath and moon․․․）",
+          "Description": "お風呂に浸かりながら月を見たり、お喋りしたり、鏡を見たり You can watch the moon‚ talk and look in a mirror while you are taking a bath․․․"
+        },
+        {
+          "ID": "wrld_0a959939-4c24-4d30-9bd7-27ab7b4ddb48",
+          "Name": "月眼-Tsukinome-",
+          "Description": "月眼の魔女のホームワールド。 主は毎週月曜２３時に居ります。"
+        }
+      ]
+    },
+    {
+      "Category": "実写/再現",
+      "Worlds": [
+        {
+          "ID": "wrld_6295d6c6-2e61-444e-87f2-51c378b2b794",
+          "Name": "Padded Room",
+          "Description": "Some of y&#39;all really deserve to be put in one․"
+        },
+        {
+          "ID": "wrld_7519a216-fc06-42a2-8211-85bcfb36de3c",
+          "Name": "Pet House",
+          "Description": "Bring your own pet"
+        },
+        {
+          "ID": "wrld_9e26d02b-d709-4af6-81fe-405c1ecc2249",
+          "Name": "Lunar surface",
+          "Description": "Lunar surface"
+        },
+        {
+          "ID": "wrld_015783db-5574-41d5-b588-57b6742f3e9d",
+          "Name": "BA˸Abydos",
+          "Description": "［ Tag＝≻ ＃VRCAbydos ］ This is a fan-made world of Blue Archive․ It may be different from the original game․"
+        },
+        {
+          "ID": "wrld_218fceaf-e950-4d7f-bbe4-cecb68b8df18",
+          "Name": "サマーウォーズ【OZ】summer wars",
+          "Description": "サマーウォーズの仮想世界【OZ】を一からすべて再現してみました。音楽も自作アレンジです․"
+        },
+        {
+          "ID": "wrld_b952847f-1a03-43af-8e4d-896c439198d2",
+          "Name": "VRススキノ",
+          "Description": "北海道札幌「すすきの」再現ワールド！クラフターズキャンプから逃げ出した５匹の隠れハリネズミを探す、宝探しゲームもできます。何度も現地に通って、写真の素材集め・加工など頑張って作ったので、楽しんで頂けると嬉しいです！"
+        },
+        {
+          "ID": "wrld_a4ff552d-1b51-410e-9bc0-52aaaf4442aa",
+          "Name": "焼肉～YAKINIKU～2025Ver",
+          "Description": "焼肉～YAKINIKU～2025Ver。かき氷・アイスが増えました。"
+        },
+        {
+          "ID": "wrld_4ad827c5-1384-4f0d-bebd-3eda09f5b7a5",
+          "Name": "KEJIME",
+          "Description": "友達とおしゃべりしたい時や自らの行いにけじめをつけたい時等にお使いください。"
+        },
+        {
+          "ID": "wrld_467e7f8c-07ee-4e88-be26-c8c612afbcfe",
+          "Name": "Nier Automata˸ Yorha Space Station",
+          "Description": "The Bunker Space station from Nier Automate․ includes a videoplayer （and some avatars in the future）․ enjoy․"
+        },
+        {
+          "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+          "Name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
+          "Description": "あの『ンョ゛ハー ゛』がVRChatにやってきた！ ネットで広く知られる看板「ンョ゛ハー ゛」とその周辺をフォトグラメトリ！ あの聖地をVRCで拝んじゃおう！ made with photogrammetry"
+        },
+        {
+          "ID": "wrld_20052280-32ef-4d5d-b2e8-8e081f2d58c8",
+          "Name": "≺≺TEST≻≻Studio Ghibli World",
+          "Description": "THIS IS A TEST VER‚ if you would‚ please report any bugs to our discord․ Studio Ghibli World made for VRC․ There are references of many Ghibli works․ Wait til night time for a pleasant surprise․ Made…"
+        },
+        {
+          "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+          "Name": "Sushi Aquarium 海洋棟",
+          "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。"
+        },
+        {
+          "ID": "wrld_0fbaf443-5374-46e5-ba5d-27de3dc88ee3",
+          "Name": "VRC弓道場（VRC Kyudo Hall）",
+          "Description": "Udonで弓道場を再現してみました。PCVRの方であれば実際に弓を引くこともできるのでぜひ体験してみてください！（2024⁄05⁄24更新：矢が飛ぶ角度を若干調整）"
+        },
+        {
+          "ID": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
+          "Name": "SPring-8",
+          "Description": "兵庫県にある大型放射光施設SPring-8の蓄積リング棟内を再現したワールドです。非公式です。"
+        },
+        {
+          "ID": "wrld_bd51a16b-1b06-4a3e-b1a1-436873454c19",
+          "Name": "Experience",
+          "Description": "Alpha v1․02"
+        },
+        {
+          "ID": "wrld_1b299247-49f5-401e-8781-30b9371d5c26",
+          "Name": "Steamy Sauna Mirror",
+          "Description": "Relax your senses in the sauna of your dreams․ Use a sponge to wipe the mirrorǃ"
+        },
+        {
+          "ID": "wrld_2fbe52c4-dca6-4f97-a862-682fa3598698",
+          "Name": "Shinto Shrine（PVP）神社",
+          "Description": "Some VRChat users visit this quaint Japan shrine village to relax․ Others however find more interest in the weapons scattered around town․․․"
+        },
+        {
+          "ID": "wrld_c8129e77-5bde-42ad-a90b-1ecb02a8d090",
+          "Name": "ARONA",
+          "Description": "透き通るような世界観 UPDATE：２２７"
+        },
+        {
+          "ID": "wrld_1f36b998-65e6-482b-9e07-6f3dc5993e21",
+          "Name": "神楽電脳局 ＂K-SOC＂",
+          "Description": "サーバルームと、それら機器の保守運用拠点をイメージしたワールドです。打ち合わせや夜勤時の仮眠等にどうぞ。"
+        },
+        {
+          "ID": "wrld_5b5905aa-916e-4967-a7d1-0c49f2873c5d",
+          "Name": "Pelican Town",
+          "Description": "Hello everyone CuivieDink here iam sad to announce the YTS is broken and cannot be fixed due to the newest vrchat update the world will still remain public for anyone who wants to explore and check i…"
+        },
+        {
+          "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+          "Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+          "Description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It&#39;s a world that puts you in the picture of reality․"
+        },
+        {
+          "ID": "wrld_2eb256cd-4f8e-4590-b685-122a119351a6",
+          "Name": "Library of Elchea",
+          "Description": "Jibril&#39;s Library ‚ created by CodeAldnoah （booth․pm） and Soupy"
+        }
+      ]
+    },
+    {
+      "Category": "展示",
+      "Worlds": [
+        {
+          "ID": "wrld_604bdf5e-fcb1-4344-bd1c-8bcfbfeffe08",
+          "Name": "旅するフクロウの花 Bloomory",
+          "Description": "花咲く瞬間を追いかけて。今日もどこかでぶらり旅。"
+        },
+        {
+          "ID": "wrld_a7e94e6a-c71c-4bad-a514-1d42138bfd4c",
+          "Name": "DAMAKOYA showroom",
+          "Description": "だまこやで販売している様々な商品を展示しています。ご購入はワールド内のQRコードか、https˸⁄⁄kodamaaltanative․booth․pm⁄ からお越しくださるか、「だまこや」で検索してください。 Various products sold at Damakoya are on display․ 展示在玉子屋出售的各种商品。 다마코야에서 판매하는 다양한 상품을 전시하고 있습니다․"
+        },
+        {
+          "ID": "wrld_776d1356-8477-4c13-a9d5-15cbbfeba89b",
+          "Name": "リアアリス怪文書美術館",
+          "Description": "＃リアアリス怪文書部 の美術館です。リアアリスの魅力を感じていただけたら幸いです。"
+        },
+        {
+          "ID": "wrld_b3ddaecd-3966-47cc-85bd-6a9fa2feabc3",
+          "Name": "Japan sword Museum ⁄ -シンヤの刀剣博物館-",
+          "Description": "このワールドはBoothで販売している日本刀を展示しています！ また日本刀についてのちょっとした説明などもありますので、日本刀に興味がある人も楽しめます！"
+        },
+        {
+          "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+          "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+          "Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ"
+        },
+        {
+          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
+          "Name": "VRC PIXELART EXHIBITION",
+          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです"
+        },
+        {
+          "ID": "wrld_99244962-4992-4a05-b42b-a2d597a14a2a",
+          "Name": "how to wrap fake",
+          "Description": "into"
+        },
+        {
+          "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+          "Name": "Exhibition˸ 1٪ of Virtuality",
+          "Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․"
+        },
+        {
+          "ID": "wrld_3f454b44-6c61-484d-bd5b-0a5abfd5f3f2",
+          "Name": "フォトグラ携帯ゲーム機展示室（6⁄16Update）",
+          "Description": "フォトグラメトリによってVRCに持ち込んだ、携帯ゲーム機たちを展示する博物館です。 ご寄贈の連絡お待ちしております。 2024⁄10⁄30 たまごっちアップデートǃ たまごっちのみを展示する特別室を実装しました。 2024⁄11⁄07 DS‚PSPの周辺機器とPlaydateを追加しました。 2024⁄11⁄24 ネオジオポケットカラーの画像を追加しました。 2025⁄06⁄16 当選したのでS…"
+        }
+      ]
+    },
+    {
+      "Category": "自作ワールド",
+      "Worlds": [
+        {
+          "ID": "wrld_5aced3f2-3b53-4fb6-8cca-0778f4e6df88",
+          "Name": "Cafe Chaos_Dredges",
+          "Description": "自己満足"
+        },
+        {
+          "ID": "wrld_e033b444-ffb3-4b95-9e91-d4fb0bcd02bf",
+          "Name": "叔父の隠れ家",
+          "Description": "記憶喪失型雑談イベント アムネジア 小～中規模開催用ワールド"
+        },
+        {
+          "ID": "wrld_7a0b327b-86c4-4c9a-8491-3f54ee96ce83",
+          "Name": "Rili_Space",
+          "Description": "夜空に浮かぶありきたりなおうちです。 QVペン、イベントカレンダー、iwaSync3（4Kまで対応）、dotediter、ImagePad、おじさん、簡易射撃場、対面型便所、ジム、Buckshot Rouletteもあります。"
+        },
+        {
+          "ID": "wrld_7044d8b2-56ed-4786-9448-516fbc0b11da",
+          "Name": "お互いの戦利品晒し合い会場",
+          "Description": "合計32枚のImagePadを設置しています 巨大スクリーンで自慢の画像を見せびらかしましょう。 ビデオプレイヤーと、レーザーポインターもあります。 イベント参加後の戦利品の見せ合いや、ガチャ結果を見せ合いましょう。 途中入室するとすべての画像の読み込みに時間がかかる場合があります。"
+        },
+        {
+          "ID": "wrld_7dec70c6-4ad5-46b9-8060-01ddeab682d0",
+          "Name": "Simple_OneRoom",
+          "Description": "個人用につくりました"
+        }
+      ]
+    },
+    {
+      "Category": "謎解き",
+      "Worlds": [
+        {
+          "ID": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a",
+          "Name": "アスタリスクの花言葉",
+          "Description": "「アスタリスクの花言葉」は9つの部屋から構成される謎解きワールドです。 Basic Japanese skill is required to play this world․"
+        },
+        {
+          "ID": "wrld_a26283ac-ce50-4d80-b725-43a01c57ad0e",
+          "Name": "Escape room ［ENKRJP］",
+          "Description": "Escape room․ No horror‚ story․ only riddle is hereǃ enjoy ˸）"
+        },
+        {
+          "ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
+          "Name": "Blocked",
+          "Description": "貴方は【とある理由】によってクリアを阻まれてしまいます。原因を潰してクリアを目指しましょう。全１問の謎解きワールド。動作はグローバル。途中参加は不可です。クレジット 【VRC向け】iwaSync3 メディアプレイヤー by Hoshino Labs․ https˸⁄⁄booth․pm⁄ja⁄items⁄2666275"
+        },
+        {
+          "ID": "wrld_acf351bf-e736-4893-aae0-a190439260dc",
+          "Name": "謎解きワールド 『オモテウラ』",
+          "Description": "進み方が２つある謎解きワールド。 君は謎を解くか、異変を見つけるか。"
+        },
+        {
+          "ID": "wrld_a034b5a0-82e5-4451-9f9d-772f3fbc8d3c",
+          "Name": "謎解きワールド WHITE ROOM",
+          "Description": "＃VRC_WHITER"
+        },
+        {
+          "ID": "wrld_d5c7df06-9b19-4e33-9f12-4169cfc9a076",
+          "Name": "謎解きワールド「VRChat日記」",
+          "Description": "VRChatを題材とした謎解きワールドです。 暗号解読などは無く、難易度はそこまで高くないかと思います。 動作は基本的にローカルです。 想定プレイ時間：30分～1時間程度 想定プレイ人数：1人～（狭いので4人くらい?） （注）設定「グラフィックス-詳細-ピクセルライトの数」をオフにしていると一部ギミックが上手く作動しなくなります。「低」以上に設定してください。"
+        },
+        {
+          "ID": "wrld_415db54b-0ac5-4afb-9e34-e38c331051c1",
+          "Name": "謎解きワールド『I asked』＃VRC_I_asked",
+          "Description": "液晶パネルの裏に隠された回路。解くべき謎は２つ。まずは正面３つのパネルをよく見ましょう。そして試行と思考を繰り返し、謎を解き明かしてください！ 進行状況はグローバル、途中入場も可能です。（インスタンスオーナーがRejoinすると同期がずれることがあります）【オリジナル版は現在、削除されています。このワールドの公開に関してオリジナル版の作者が関与しています】クレジット 【VRC向け】iwaSync…"
+        },
+        {
+          "ID": "wrld_ece83c46-61be-418f-bd35-2aceb197d611",
+          "Name": "謎解き「OVERHOLE」",
+          "Description": "13個の＂謎＂と、13個の＂ピース＂。アナタは全てを揃えることはできるのか？高難易度、想定プレイ時間３時間～"
+        },
+        {
+          "ID": "wrld_b244b119-2497-4bdb-b239-cd47884e3c5a",
+          "Name": "脱出ゲーム「殺人レストランからの脱出」",
+          "Description": "爆弾の仕掛けられた部屋から脱出せよ！⁄制限時間60分⁄途中入場不可"
+        },
+        {
+          "ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
+          "Name": "脱出ゲーム「無実の罪からの脱出」",
+          "Description": "冤罪で投獄されたあなた。刑が執行されるまでに『無実の罪』から脱出できるのか？ ⁄ 制限時間60分 ⁄ グローバル動作 ⁄ 途中参加不可"
+        },
+        {
+          "ID": "wrld_16a115b9-53e9-4182-b90e-9d44005fe669",
+          "Name": "脱出ゲーム「VEIL」",
+          "Description": "全てが謎に包まれた脱出ゲーム、＂VEIL＂へようこそ。⁄途中参加不可⁄制限時間60分"
+        },
+        {
+          "ID": "wrld_c9203b82-6411-4b8d-9cc6-af9f70626792",
+          "Name": "謎解きワールド「謎の家からの脱出」",
+          "Description": "謎の家からの脱出を目指せ！⁄想定クリア時間60分‚挙動は全てローカル⁄＃VRC_NazoHouse"
+        }
+      ]
+    },
+    {
+      "Category": "雑談特化",
+      "Worlds": [
+        {
+          "ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
+          "Name": "［JP］Tutorial world",
+          "Description": "日本人の初心者の方向けの各種解説ワールドです。0625更新"
+        },
+        {
+          "ID": "wrld_af246e88-1296-41ce-8779-cb0f9825ccbc",
+          "Name": "お砂糖マッチング",
+          "Description": "お砂糖に興味がある人向けのマッチングワールドです。お砂糖へのはじめの一歩をお手伝いできればと思います。【Group˸ OSATOU․3270】ワールドへのご要望は ＠chalha_tb まで。"
+        },
+        {
+          "ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+          "Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+          "Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。"
+        },
+        {
+          "ID": "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5",
+          "Name": "ポピー横丁-Poppy Street-",
+          "Description": "ポピー横丁は日本の新宿にあるゴールデン街と言う飲み屋街をモチーフに作成しました。「酒は人間を映し出す鏡である。今日も鏡の前で。」Poppy Yokocho is a world with the motif of a bar street Golden Gai in Shinjuku‚ Japan․［Alcohol is a mirror that reflects humanity․Today…"
+        },
+        {
+          "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
+          "Name": "バーチャル居酒屋「がやがや」",
+          "Description": "おなじみの飲み屋ギミックを備えた居酒屋です。"
+        },
+        {
+          "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+          "Name": "日本語話者向け集会場「FUJIYAMA」JP",
+          "Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama"
+        },
+        {
+          "ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+          "Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+          "Description": "5分間 1対1でお話しするワールドです。5分間話した後はワールドギミックで自動的にシャッフルが入り、また別の人とお話しすることが出来ます。困った時用の会話デッキギミック等もあります。Nagisa jp"
+        },
+        {
+          "ID": "wrld_496b096b-0ce0-4678-9e47-40649cdf6ccf",
+          "Name": "いいねポイント制 『くりひろ！』（旧クリエイター広場）",
+          "Description": "作業したい人、何かを作りたい人、改変をしたい人、UnityやBlenderに挑戦したい人、いろんな人に『いいね』を送ろう！"
+        },
+        {
+          "ID": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+          "Name": "EN-JP Language Exchange",
+          "Description": "Version 1․2․1"
+        },
+        {
+          "ID": "wrld_31422b22-6f53-4f9a-aed1-104128ab17d3",
+          "Name": "Personally Match",
+          "Description": "このワールド内には8軒の家があります。 最初にドアを選択して4つの性格に関する質問に答えていただき、その回答に基づいてあなたがどの家に行くか決まります。 その家で出会うのは、4問同じ回答を選んだ他のアバター達と、あなたと相性の良い回答を選択したアバター達です。 日本語話者限定で不定期で開催します。"
+        },
+        {
+          "ID": "wrld_355a0278-aaff-4ee0-ba20-e6912386f898",
+          "Name": "β版 居心地ポイント制 MAKUAKE JP",
+          "Description": "居心地ポイント制 日本人向け集会場ワールド MAKUAKE SNSへの投稿は ＃MAKUAKE_VRC"
+        },
+        {
+          "ID": "wrld_20a69566-2cbc-48f1-97ca-0f59142cf8e1",
+          "Name": "1対1 お砂糖マッチングワールド「つむぎ」",
+          "Description": "1対1 お砂糖マッチングワールド「つむぎ」はバーチャル上の仮想パートナー「お砂糖」を見つけるワールドです 現実の異性交際を目的としたワールドではないため、必ずしも男女でマッチングする仕様ではありません。"
+        }
+      ]
+    },
+    {
+      "Category": "音響同期",
+      "Worlds": [
+        {
+          "ID": "wrld_5edb4d7d-2400-49f8-bae1-a8eb48a258e2",
+          "Name": "AudioOrbs",
+          "Description": "32 AudioLink-enabled orbs that dynamically enlighten the environment and your avatar․ Many settings to tinker withǃ v2․23"
+        },
+        {
+          "ID": "wrld_c330cf97-4ffb-40a9-b872-79a36905134d",
+          "Name": "Music Stellar Lake",
+          "Description": "Have a special time with your favorite music․"
+        },
+        {
+          "ID": "wrld_72bce08a-2da2-4b74-ac4f-cbc93a29a1b1",
+          "Name": "Space Dome Visualizer",
+          "Description": "｛EPILEPSY WARNING｝ Space Dome Visualizer is designed for loud bassy beats․ Control the Cube with smaller cube toggles and run to the center of it to cross a trippy event horizon․ Default Song is˸ edI…"
+        }
+      ]
+    }
+  ]
 }
