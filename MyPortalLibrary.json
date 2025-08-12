@@ -1217,6 +1217,11 @@
           "ID": "wrld_7dec70c6-4ad5-46b9-8060-01ddeab682d0",
           "Name": "Simple_OneRoom",
           "Description": "個人用につくりました"
+        },  
+        {
+          "ID": "wrld_898722df-6a76-4dbf-9aff-ea60389541e9",
+          "Name": "ミルティナ牧場",
+          "Description": "自己満足にしたかった。まだ未完成"
         }
       ]
     },
