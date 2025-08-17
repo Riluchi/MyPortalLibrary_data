@@ -4,6 +4,11 @@
           "Category": "自作ワールド",
           "Worlds": [
             {
+                "ID": "wrld_6e5c9b6a-d66d-4bff-9b91-f4b1dec8d8ad",
+                "Name": "Mulicia Plush Square",
+                "Description": "非公式です。 ミュリシアぬいは、沢山あればあるほど嬉しくなると私は思うのです。 This is unofficial․ I think the more Mulicia stuffed Plushs you have‚ the happier you will be․"
+            },
+            {
               "ID": "wrld_5aced3f2-3b53-4fb6-8cca-0778f4e6df88",
               "Name": "Cafe Chaos_Dredges",
               "Description": "自己満足"
@@ -32,11 +37,6 @@
               "ID": "wrld_898722df-6a76-4dbf-9aff-ea60389541e9",
               "Name": "ミルティナ牧場",
               "Description": "自己満足にしたかった。まだ未完成"
-            },
-            {
-              "ID": "wrld_6e5c9b6a-d66d-4bff-9b91-f4b1dec8d8ad",
-              "Name": "Mulicia Plush Square",
-              "Description": "非公式です。 ミュリシアぬいは、沢山あればあるほど嬉しくなると私は思うのです。 This is unofficial․ I think the more Mulicia stuffed Plushs you have‚ the happier you will be․"
             }
           ]
         },
